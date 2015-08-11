@@ -1,0 +1,2 @@
+The mv command is used to move files between directories and also directories between directories. 
+The mv command can also be used to rename files by stating the newly named file after the other (e.g. git mv file newFile)
