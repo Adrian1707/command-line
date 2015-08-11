@@ -1,0 +1,3 @@
+The grep command is a very powerful command that allows us to search inside a specific file. If we want to find a specific word
+or phrase, then the grep command is the one to use. 
+grep can search extensively through a specific file, and through all files recursively using grep -r *word/phrase*. 
