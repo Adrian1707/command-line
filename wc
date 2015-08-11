@@ -1,0 +1,4 @@
+The wc command allows us to count words, lines and characters in our files. By just writing 'wc' it lists all three for us
+but we can specify exactly what we want counting in the command. -l for lines, -w for words and -m for characters. 
+wc is useful when piping from previous outputs. So if we want to count how many README files are in the home directory, we could write
+find ~ -name "*.txt" -print | grep README | wc -l. 
